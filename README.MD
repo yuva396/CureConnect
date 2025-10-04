@@ -59,6 +59,8 @@ CureConnect is an AI-powered health assistant designed to make medical informati
 
 We welcome contributions! Fork the repo, raise issues, or submit pull requests to help improve CureConnect.
 
+# License 
 
+This project is licensed under the MIT License.
 
 
