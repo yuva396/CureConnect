@@ -16,6 +16,7 @@ Built with LLaMA-2, LangChain, FAISS, and Chainlit, it provides a knowledge-driv
 
 # Project Structure 📂
 <img width="909" height="286" alt="Image" src="https://github.com/user-attachments/assets/525571b2-4b0f-4cd7-bb35-cf23e8da1287" />
+
 # Setup Instructions ⚙️ 
 
 1. Clone the Repository
@@ -37,7 +38,6 @@ pip install -r requirements.txt
 4. Build the Knowledge Base 
 ```bash
 python ingest.py
-
 ```
 5. Run the Bot
 ```bash
