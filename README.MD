@@ -44,3 +44,11 @@ python ingest.py
 chainlit run model.py -w
 
 ``
+# Bot in Action
+CureConnect is an AI-powered health assistant designed to make medical information more accessible and reliable. It allows users to ask natural-language questions about symptoms, diseases, and medications, and receive responses generated from trusted medical knowledge sources.
+
+<img width="1909" height="868" alt="Image" src="https://github.com/user-attachments/assets/92a5e280-fd35-45d3-8275-e94e3c9e91ed" />
+
+<img width="1919" height="877" alt="Image" src="https://github.com/user-attachments/assets/69cbcafe-0828-42ae-9673-82b2bf6deef6" />
+
+<img width="1919" height="878" alt="Image" src="https://github.com/user-attachments/assets/a99ffe4d-1df8-462e-8060-1d8640f07c6d" />
