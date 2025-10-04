@@ -55,4 +55,10 @@ CureConnect is an AI-powered health assistant designed to make medical informati
 
 <img width="1919" height="878" alt="Image" src="https://github.com/user-attachments/assets/a99ffe4d-1df8-462e-8060-1d8640f07c6d" />
 
+# Contribution 🤝
+
+We welcome contributions! Fork the repo, raise issues, or submit pull requests to help improve CureConnect.
+
+
+
 
