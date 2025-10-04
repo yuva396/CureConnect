@@ -1,7 +1,9 @@
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import PyPDFLoader, DirectoryLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter 
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+
+
 
 DATA_PATH = 'data/'
 DB_FAISS_PATH = 'vectorstore/db_faiss'
@@ -25,4 +27,3 @@ def create_vector_db():
 
 if __name__ == "__main__":
     create_vector_db()
-
